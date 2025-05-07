@@ -740,7 +740,7 @@ class AmigaDebugExtension {
 	}
 
 	private async setPermissions() {
-		const version = "13.2.0";
+		const version = "14.2.0";
 		const exes = [
 			"elf2hunk",
 			"exe2adf",
